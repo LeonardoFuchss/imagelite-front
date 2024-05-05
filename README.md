@@ -21,4 +21,4 @@ Este projeto é uma aplicação front-end de uma galeria de imagens, onde os usu
 ## Next.js: 
 - Framework React para renderização no lado do servidor (SSR), trazendo benefícios como melhor performance e SEO.
 ## Docker: 
-- Plataforma de código aberto que permite criar, implantar e executar aplicativos em contêineres.
+- Nesta aplicação, criamos um contâiner docker para o deploy e conectamos com os demais contâiner do backend atráves das networks
